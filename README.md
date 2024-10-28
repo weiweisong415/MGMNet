@@ -3,6 +3,6 @@ This paper is under reviewed by IEEE Journal of Selected Topics in Applied Earth
 
 Usage
 
-python Demo_AHCL_WHURS19.py
+python main_Trento.py
 
 If you have any questions about this code, please contact me: weiweisong415@gmail.com
