@@ -3,6 +3,6 @@ This paper is under reviewed by IEEE Journal of Selected Topics in Applied Earth
 
 Usage
 
-python main_Trento.py
+python main-Trento.py
 
 If you have any questions about this code, please contact me: weiweisong415@gmail.com
